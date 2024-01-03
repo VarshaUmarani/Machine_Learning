@@ -1,0 +1,392 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Actual Dataset is : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID : 0	 Features : [5.1 3.5 1.4 0.2]	 Label : 0
+ID : 1	 Features : [4.9 3.  1.4 0.2]	 Label : 0
+ID : 2	 Features : [4.7 3.2 1.3 0.2]	 Label : 0
+ID : 3	 Features : [4.6 3.1 1.5 0.2]	 Label : 0
+ID : 4	 Features : [5.  3.6 1.4 0.2]	 Label : 0
+ID : 5	 Features : [5.4 3.9 1.7 0.4]	 Label : 0
+ID : 6	 Features : [4.6 3.4 1.4 0.3]	 Label : 0
+ID : 7	 Features : [5.  3.4 1.5 0.2]	 Label : 0
+ID : 8	 Features : [4.4 2.9 1.4 0.2]	 Label : 0
+ID : 9	 Features : [4.9 3.1 1.5 0.1]	 Label : 0
+ID : 10	 Features : [5.4 3.7 1.5 0.2]	 Label : 0
+ID : 11	 Features : [4.8 3.4 1.6 0.2]	 Label : 0
+ID : 12	 Features : [4.8 3.  1.4 0.1]	 Label : 0
+ID : 13	 Features : [4.3 3.  1.1 0.1]	 Label : 0
+ID : 14	 Features : [5.8 4.  1.2 0.2]	 Label : 0
+ID : 15	 Features : [5.7 4.4 1.5 0.4]	 Label : 0
+ID : 16	 Features : [5.4 3.9 1.3 0.4]	 Label : 0
+ID : 17	 Features : [5.1 3.5 1.4 0.3]	 Label : 0
+ID : 18	 Features : [5.7 3.8 1.7 0.3]	 Label : 0
+ID : 19	 Features : [5.1 3.8 1.5 0.3]	 Label : 0
+ID : 20	 Features : [5.4 3.4 1.7 0.2]	 Label : 0
+ID : 21	 Features : [5.1 3.7 1.5 0.4]	 Label : 0
+ID : 22	 Features : [4.6 3.6 1.  0.2]	 Label : 0
+ID : 23	 Features : [5.1 3.3 1.7 0.5]	 Label : 0
+ID : 24	 Features : [4.8 3.4 1.9 0.2]	 Label : 0
+ID : 25	 Features : [5.  3.  1.6 0.2]	 Label : 0
+ID : 26	 Features : [5.  3.4 1.6 0.4]	 Label : 0
+ID : 27	 Features : [5.2 3.5 1.5 0.2]	 Label : 0
+ID : 28	 Features : [5.2 3.4 1.4 0.2]	 Label : 0
+ID : 29	 Features : [4.7 3.2 1.6 0.2]	 Label : 0
+ID : 30	 Features : [4.8 3.1 1.6 0.2]	 Label : 0
+ID : 31	 Features : [5.4 3.4 1.5 0.4]	 Label : 0
+ID : 32	 Features : [5.2 4.1 1.5 0.1]	 Label : 0
+ID : 33	 Features : [5.5 4.2 1.4 0.2]	 Label : 0
+ID : 34	 Features : [4.9 3.1 1.5 0.2]	 Label : 0
+ID : 35	 Features : [5.  3.2 1.2 0.2]	 Label : 0
+ID : 36	 Features : [5.5 3.5 1.3 0.2]	 Label : 0
+ID : 37	 Features : [4.9 3.6 1.4 0.1]	 Label : 0
+ID : 38	 Features : [4.4 3.  1.3 0.2]	 Label : 0
+ID : 39	 Features : [5.1 3.4 1.5 0.2]	 Label : 0
+ID : 40	 Features : [5.  3.5 1.3 0.3]	 Label : 0
+ID : 41	 Features : [4.5 2.3 1.3 0.3]	 Label : 0
+ID : 42	 Features : [4.4 3.2 1.3 0.2]	 Label : 0
+ID : 43	 Features : [5.  3.5 1.6 0.6]	 Label : 0
+ID : 44	 Features : [5.1 3.8 1.9 0.4]	 Label : 0
+ID : 45	 Features : [4.8 3.  1.4 0.3]	 Label : 0
+ID : 46	 Features : [5.1 3.8 1.6 0.2]	 Label : 0
+ID : 47	 Features : [4.6 3.2 1.4 0.2]	 Label : 0
+ID : 48	 Features : [5.3 3.7 1.5 0.2]	 Label : 0
+ID : 49	 Features : [5.  3.3 1.4 0.2]	 Label : 0
+ID : 50	 Features : [7.  3.2 4.7 1.4]	 Label : 1
+ID : 51	 Features : [6.4 3.2 4.5 1.5]	 Label : 1
+ID : 52	 Features : [6.9 3.1 4.9 1.5]	 Label : 1
+ID : 53	 Features : [5.5 2.3 4.  1.3]	 Label : 1
+ID : 54	 Features : [6.5 2.8 4.6 1.5]	 Label : 1
+ID : 55	 Features : [5.7 2.8 4.5 1.3]	 Label : 1
+ID : 56	 Features : [6.3 3.3 4.7 1.6]	 Label : 1
+ID : 57	 Features : [4.9 2.4 3.3 1. ]	 Label : 1
+ID : 58	 Features : [6.6 2.9 4.6 1.3]	 Label : 1
+ID : 59	 Features : [5.2 2.7 3.9 1.4]	 Label : 1
+ID : 60	 Features : [5.  2.  3.5 1. ]	 Label : 1
+ID : 61	 Features : [5.9 3.  4.2 1.5]	 Label : 1
+ID : 62	 Features : [6.  2.2 4.  1. ]	 Label : 1
+ID : 63	 Features : [6.1 2.9 4.7 1.4]	 Label : 1
+ID : 64	 Features : [5.6 2.9 3.6 1.3]	 Label : 1
+ID : 65	 Features : [6.7 3.1 4.4 1.4]	 Label : 1
+ID : 66	 Features : [5.6 3.  4.5 1.5]	 Label : 1
+ID : 67	 Features : [5.8 2.7 4.1 1. ]	 Label : 1
+ID : 68	 Features : [6.2 2.2 4.5 1.5]	 Label : 1
+ID : 69	 Features : [5.6 2.5 3.9 1.1]	 Label : 1
+ID : 70	 Features : [5.9 3.2 4.8 1.8]	 Label : 1
+ID : 71	 Features : [6.1 2.8 4.  1.3]	 Label : 1
+ID : 72	 Features : [6.3 2.5 4.9 1.5]	 Label : 1
+ID : 73	 Features : [6.1 2.8 4.7 1.2]	 Label : 1
+ID : 74	 Features : [6.4 2.9 4.3 1.3]	 Label : 1
+ID : 75	 Features : [6.6 3.  4.4 1.4]	 Label : 1
+ID : 76	 Features : [6.8 2.8 4.8 1.4]	 Label : 1
+ID : 77	 Features : [6.7 3.  5.  1.7]	 Label : 1
+ID : 78	 Features : [6.  2.9 4.5 1.5]	 Label : 1
+ID : 79	 Features : [5.7 2.6 3.5 1. ]	 Label : 1
+ID : 80	 Features : [5.5 2.4 3.8 1.1]	 Label : 1
+ID : 81	 Features : [5.5 2.4 3.7 1. ]	 Label : 1
+ID : 82	 Features : [5.8 2.7 3.9 1.2]	 Label : 1
+ID : 83	 Features : [6.  2.7 5.1 1.6]	 Label : 1
+ID : 84	 Features : [5.4 3.  4.5 1.5]	 Label : 1
+ID : 85	 Features : [6.  3.4 4.5 1.6]	 Label : 1
+ID : 86	 Features : [6.7 3.1 4.7 1.5]	 Label : 1
+ID : 87	 Features : [6.3 2.3 4.4 1.3]	 Label : 1
+ID : 88	 Features : [5.6 3.  4.1 1.3]	 Label : 1
+ID : 89	 Features : [5.5 2.5 4.  1.3]	 Label : 1
+ID : 90	 Features : [5.5 2.6 4.4 1.2]	 Label : 1
+ID : 91	 Features : [6.1 3.  4.6 1.4]	 Label : 1
+ID : 92	 Features : [5.8 2.6 4.  1.2]	 Label : 1
+ID : 93	 Features : [5.  2.3 3.3 1. ]	 Label : 1
+ID : 94	 Features : [5.6 2.7 4.2 1.3]	 Label : 1
+ID : 95	 Features : [5.7 3.  4.2 1.2]	 Label : 1
+ID : 96	 Features : [5.7 2.9 4.2 1.3]	 Label : 1
+ID : 97	 Features : [6.2 2.9 4.3 1.3]	 Label : 1
+ID : 98	 Features : [5.1 2.5 3.  1.1]	 Label : 1
+ID : 99	 Features : [5.7 2.8 4.1 1.3]	 Label : 1
+ID : 100	 Features : [6.3 3.3 6.  2.5]	 Label : 2
+ID : 101	 Features : [5.8 2.7 5.1 1.9]	 Label : 2
+ID : 102	 Features : [7.1 3.  5.9 2.1]	 Label : 2
+ID : 103	 Features : [6.3 2.9 5.6 1.8]	 Label : 2
+ID : 104	 Features : [6.5 3.  5.8 2.2]	 Label : 2
+ID : 105	 Features : [7.6 3.  6.6 2.1]	 Label : 2
+ID : 106	 Features : [4.9 2.5 4.5 1.7]	 Label : 2
+ID : 107	 Features : [7.3 2.9 6.3 1.8]	 Label : 2
+ID : 108	 Features : [6.7 2.5 5.8 1.8]	 Label : 2
+ID : 109	 Features : [7.2 3.6 6.1 2.5]	 Label : 2
+ID : 110	 Features : [6.5 3.2 5.1 2. ]	 Label : 2
+ID : 111	 Features : [6.4 2.7 5.3 1.9]	 Label : 2
+ID : 112	 Features : [6.8 3.  5.5 2.1]	 Label : 2
+ID : 113	 Features : [5.7 2.5 5.  2. ]	 Label : 2
+ID : 114	 Features : [5.8 2.8 5.1 2.4]	 Label : 2
+ID : 115	 Features : [6.4 3.2 5.3 2.3]	 Label : 2
+ID : 116	 Features : [6.5 3.  5.5 1.8]	 Label : 2
+ID : 117	 Features : [7.7 3.8 6.7 2.2]	 Label : 2
+ID : 118	 Features : [7.7 2.6 6.9 2.3]	 Label : 2
+ID : 119	 Features : [6.  2.2 5.  1.5]	 Label : 2
+ID : 120	 Features : [6.9 3.2 5.7 2.3]	 Label : 2
+ID : 121	 Features : [5.6 2.8 4.9 2. ]	 Label : 2
+ID : 122	 Features : [7.7 2.8 6.7 2. ]	 Label : 2
+ID : 123	 Features : [6.3 2.7 4.9 1.8]	 Label : 2
+ID : 124	 Features : [6.7 3.3 5.7 2.1]	 Label : 2
+ID : 125	 Features : [7.2 3.2 6.  1.8]	 Label : 2
+ID : 126	 Features : [6.2 2.8 4.8 1.8]	 Label : 2
+ID : 127	 Features : [6.1 3.  4.9 1.8]	 Label : 2
+ID : 128	 Features : [6.4 2.8 5.6 2.1]	 Label : 2
+ID : 129	 Features : [7.2 3.  5.8 1.6]	 Label : 2
+ID : 130	 Features : [7.4 2.8 6.1 1.9]	 Label : 2
+ID : 131	 Features : [7.9 3.8 6.4 2. ]	 Label : 2
+ID : 132	 Features : [6.4 2.8 5.6 2.2]	 Label : 2
+ID : 133	 Features : [6.3 2.8 5.1 1.5]	 Label : 2
+ID : 134	 Features : [6.1 2.6 5.6 1.4]	 Label : 2
+ID : 135	 Features : [7.7 3.  6.1 2.3]	 Label : 2
+ID : 136	 Features : [6.3 3.4 5.6 2.4]	 Label : 2
+ID : 137	 Features : [6.4 3.1 5.5 1.8]	 Label : 2
+ID : 138	 Features : [6.  3.  4.8 1.8]	 Label : 2
+ID : 139	 Features : [6.9 3.1 5.4 2.1]	 Label : 2
+ID : 140	 Features : [6.7 3.1 5.6 2.4]	 Label : 2
+ID : 141	 Features : [6.9 3.1 5.1 2.3]	 Label : 2
+ID : 142	 Features : [5.8 2.7 5.1 1.9]	 Label : 2
+ID : 143	 Features : [6.8 3.2 5.9 2.3]	 Label : 2
+ID : 144	 Features : [6.7 3.3 5.7 2.5]	 Label : 2
+ID : 145	 Features : [6.7 3.  5.2 2.3]	 Label : 2
+ID : 146	 Features : [6.3 2.5 5.  1.9]	 Label : 2
+ID : 147	 Features : [6.5 3.  5.2 2. ]	 Label : 2
+ID : 148	 Features : [6.2 3.4 5.4 2.3]	 Label : 2
+ID : 149	 Features : [5.9 3.  5.1 1.8]	 Label : 2
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Training Dataset is : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID : 0	  Features : [5.  3.6 1.4 0.2]	 Label : 0
+ID : 1	  Features : [4.9 3.6 1.4 0.1]	 Label : 0
+ID : 2	  Features : [7.7 2.8 6.7 2. ]	 Label : 2
+ID : 3	  Features : [4.4 2.9 1.4 0.2]	 Label : 0
+ID : 4	  Features : [5.  3.4 1.6 0.4]	 Label : 0
+ID : 5	  Features : [6.8 3.2 5.9 2.3]	 Label : 2
+ID : 6	  Features : [5.  3.5 1.6 0.6]	 Label : 0
+ID : 7	  Features : [5.1 3.3 1.7 0.5]	 Label : 0
+ID : 8	  Features : [7.2 3.2 6.  1.8]	 Label : 2
+ID : 9	  Features : [5.  3.2 1.2 0.2]	 Label : 0
+ID : 10	  Features : [7.7 3.  6.1 2.3]	 Label : 2
+ID : 11	  Features : [6.1 2.9 4.7 1.4]	 Label : 1
+ID : 12	  Features : [5.1 3.8 1.9 0.4]	 Label : 0
+ID : 13	  Features : [6.3 3.3 4.7 1.6]	 Label : 1
+ID : 14	  Features : [6.4 2.9 4.3 1.3]	 Label : 1
+ID : 15	  Features : [6.1 2.8 4.  1.3]	 Label : 1
+ID : 16	  Features : [6.4 3.2 5.3 2.3]	 Label : 2
+ID : 17	  Features : [6.  2.9 4.5 1.5]	 Label : 1
+ID : 18	  Features : [6.2 2.9 4.3 1.3]	 Label : 1
+ID : 19	  Features : [6.4 2.8 5.6 2.2]	 Label : 2
+ID : 20	  Features : [4.9 3.1 1.5 0.1]	 Label : 0
+ID : 21	  Features : [6.6 3.  4.4 1.4]	 Label : 1
+ID : 22	  Features : [5.  3.4 1.5 0.2]	 Label : 0
+ID : 23	  Features : [6.7 3.  5.  1.7]	 Label : 1
+ID : 24	  Features : [4.5 2.3 1.3 0.3]	 Label : 0
+ID : 25	  Features : [5.9 3.  5.1 1.8]	 Label : 2
+ID : 26	  Features : [5.1 3.8 1.6 0.2]	 Label : 0
+ID : 27	  Features : [5.6 2.5 3.9 1.1]	 Label : 1
+ID : 28	  Features : [5.5 2.6 4.4 1.2]	 Label : 1
+ID : 29	  Features : [5.7 4.4 1.5 0.4]	 Label : 0
+ID : 30	  Features : [5.8 2.7 4.1 1. ]	 Label : 1
+ID : 31	  Features : [5.5 2.3 4.  1.3]	 Label : 1
+ID : 32	  Features : [5.8 2.7 5.1 1.9]	 Label : 2
+ID : 33	  Features : [5.2 2.7 3.9 1.4]	 Label : 1
+ID : 34	  Features : [6.9 3.1 5.4 2.1]	 Label : 2
+ID : 35	  Features : [6.7 3.1 4.7 1.5]	 Label : 1
+ID : 36	  Features : [6.9 3.1 4.9 1.5]	 Label : 1
+ID : 37	  Features : [5.3 3.7 1.5 0.2]	 Label : 0
+ID : 38	  Features : [5.5 4.2 1.4 0.2]	 Label : 0
+ID : 39	  Features : [4.8 3.  1.4 0.1]	 Label : 0
+ID : 40	  Features : [5.5 2.5 4.  1.3]	 Label : 1
+ID : 41	  Features : [6.1 3.  4.9 1.8]	 Label : 2
+ID : 42	  Features : [5.4 3.4 1.5 0.4]	 Label : 0
+ID : 43	  Features : [4.6 3.4 1.4 0.3]	 Label : 0
+ID : 44	  Features : [5.2 3.4 1.4 0.2]	 Label : 0
+ID : 45	  Features : [6.7 2.5 5.8 1.8]	 Label : 2
+ID : 46	  Features : [5.1 2.5 3.  1.1]	 Label : 1
+ID : 47	  Features : [6.  2.7 5.1 1.6]	 Label : 1
+ID : 48	  Features : [7.1 3.  5.9 2.1]	 Label : 2
+ID : 49	  Features : [5.7 2.5 5.  2. ]	 Label : 2
+ID : 50	  Features : [5.4 3.9 1.7 0.4]	 Label : 0
+ID : 51	  Features : [6.5 3.  5.8 2.2]	 Label : 2
+ID : 52	  Features : [4.4 3.2 1.3 0.2]	 Label : 0
+ID : 53	  Features : [5.  3.3 1.4 0.2]	 Label : 0
+ID : 54	  Features : [6.3 2.3 4.4 1.3]	 Label : 1
+ID : 55	  Features : [4.8 3.  1.4 0.3]	 Label : 0
+ID : 56	  Features : [5.9 3.2 4.8 1.8]	 Label : 1
+ID : 57	  Features : [5.8 2.8 5.1 2.4]	 Label : 2
+ID : 58	  Features : [5.7 2.8 4.5 1.3]	 Label : 1
+ID : 59	  Features : [4.3 3.  1.1 0.1]	 Label : 0
+ID : 60	  Features : [4.4 3.  1.3 0.2]	 Label : 0
+ID : 61	  Features : [6.4 2.8 5.6 2.1]	 Label : 2
+ID : 62	  Features : [4.9 2.5 4.5 1.7]	 Label : 2
+ID : 63	  Features : [6.4 3.1 5.5 1.8]	 Label : 2
+ID : 64	  Features : [4.9 3.  1.4 0.2]	 Label : 0
+ID : 65	  Features : [4.9 2.4 3.3 1. ]	 Label : 1
+ID : 66	  Features : [5.4 3.  4.5 1.5]	 Label : 1
+ID : 67	  Features : [5.  3.  1.6 0.2]	 Label : 0
+ID : 68	  Features : [5.2 4.1 1.5 0.1]	 Label : 0
+ID : 69	  Features : [5.5 2.4 3.7 1. ]	 Label : 1
+ID : 70	  Features : [6.1 2.6 5.6 1.4]	 Label : 2
+ID : 71	  Features : [5.  2.3 3.3 1. ]	 Label : 1
+ID : 72	  Features : [6.9 3.1 5.1 2.3]	 Label : 2
+ID : 73	  Features : [6.  2.2 5.  1.5]	 Label : 2
+ID : 74	  Features : [6.7 3.1 4.4 1.4]	 Label : 1
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Testing Dataset is : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID : 0	  Features : [4.6 3.1 1.5 0.2]	 Label : 0
+ID : 1	  Features : [5.  3.5 1.3 0.3]	 Label : 0
+ID : 2	  Features : [6.3 2.9 5.6 1.8]	 Label : 2
+ID : 3	  Features : [6.3 2.5 5.  1.9]	 Label : 2
+ID : 4	  Features : [6.  3.4 4.5 1.6]	 Label : 1
+ID : 5	  Features : [6.  3.  4.8 1.8]	 Label : 2
+ID : 6	  Features : [5.7 3.  4.2 1.2]	 Label : 1
+ID : 7	  Features : [7.2 3.  5.8 1.6]	 Label : 2
+ID : 8	  Features : [5.1 3.4 1.5 0.2]	 Label : 0
+ID : 9	  Features : [6.7 3.  5.2 2.3]	 Label : 2
+ID : 10	  Features : [4.9 3.1 1.5 0.2]	 Label : 0
+ID : 11	  Features : [6.9 3.2 5.7 2.3]	 Label : 2
+ID : 12	  Features : [5.9 3.  4.2 1.5]	 Label : 1
+ID : 13	  Features : [6.2 2.2 4.5 1.5]	 Label : 1
+ID : 14	  Features : [6.7 3.3 5.7 2.5]	 Label : 2
+ID : 15	  Features : [4.7 3.2 1.6 0.2]	 Label : 0
+ID : 16	  Features : [6.5 2.8 4.6 1.5]	 Label : 1
+ID : 17	  Features : [6.2 3.4 5.4 2.3]	 Label : 2
+ID : 18	  Features : [4.8 3.1 1.6 0.2]	 Label : 0
+ID : 19	  Features : [7.  3.2 4.7 1.4]	 Label : 1
+ID : 20	  Features : [7.7 3.8 6.7 2.2]	 Label : 2
+ID : 21	  Features : [6.1 2.8 4.7 1.2]	 Label : 1
+ID : 22	  Features : [5.4 3.9 1.3 0.4]	 Label : 0
+ID : 23	  Features : [5.8 2.6 4.  1.2]	 Label : 1
+ID : 24	  Features : [6.5 3.2 5.1 2. ]	 Label : 2
+ID : 25	  Features : [5.6 3.  4.1 1.3]	 Label : 1
+ID : 26	  Features : [5.7 2.8 4.1 1.3]	 Label : 1
+ID : 27	  Features : [6.8 3.  5.5 2.1]	 Label : 2
+ID : 28	  Features : [7.6 3.  6.6 2.1]	 Label : 2
+ID : 29	  Features : [5.8 4.  1.2 0.2]	 Label : 0
+ID : 30	  Features : [5.1 3.5 1.4 0.3]	 Label : 0
+ID : 31	  Features : [6.2 2.8 4.8 1.8]	 Label : 2
+ID : 32	  Features : [7.3 2.9 6.3 1.8]	 Label : 2
+ID : 33	  Features : [7.2 3.6 6.1 2.5]	 Label : 2
+ID : 34	  Features : [6.3 2.8 5.1 1.5]	 Label : 2
+ID : 35	  Features : [5.  2.  3.5 1. ]	 Label : 1
+ID : 36	  Features : [6.5 3.  5.5 1.8]	 Label : 2
+ID : 37	  Features : [6.3 2.5 4.9 1.5]	 Label : 1
+ID : 38	  Features : [5.6 2.9 3.6 1.3]	 Label : 1
+ID : 39	  Features : [5.8 2.7 3.9 1.2]	 Label : 1
+ID : 40	  Features : [5.7 2.6 3.5 1. ]	 Label : 1
+ID : 41	  Features : [4.6 3.6 1.  0.2]	 Label : 0
+ID : 42	  Features : [4.7 3.2 1.3 0.2]	 Label : 0
+ID : 43	  Features : [5.7 3.8 1.7 0.3]	 Label : 0
+ID : 44	  Features : [6.5 3.  5.2 2. ]	 Label : 2
+ID : 45	  Features : [4.8 3.4 1.6 0.2]	 Label : 0
+ID : 46	  Features : [5.5 3.5 1.3 0.2]	 Label : 0
+ID : 47	  Features : [6.3 2.7 4.9 1.8]	 Label : 2
+ID : 48	  Features : [5.6 3.  4.5 1.5]	 Label : 1
+ID : 49	  Features : [5.6 2.7 4.2 1.3]	 Label : 1
+ID : 50	  Features : [7.4 2.8 6.1 1.9]	 Label : 2
+ID : 51	  Features : [6.3 3.4 5.6 2.4]	 Label : 2
+ID : 52	  Features : [7.9 3.8 6.4 2. ]	 Label : 2
+ID : 53	  Features : [6.3 3.3 6.  2.5]	 Label : 2
+ID : 54	  Features : [5.2 3.5 1.5 0.2]	 Label : 0
+ID : 55	  Features : [6.4 2.7 5.3 1.9]	 Label : 2
+ID : 56	  Features : [6.1 3.  4.6 1.4]	 Label : 1
+ID : 57	  Features : [5.1 3.8 1.5 0.3]	 Label : 0
+ID : 58	  Features : [5.4 3.7 1.5 0.2]	 Label : 0
+ID : 59	  Features : [4.6 3.2 1.4 0.2]	 Label : 0
+ID : 60	  Features : [7.7 2.6 6.9 2.3]	 Label : 2
+ID : 61	  Features : [6.8 2.8 4.8 1.4]	 Label : 1
+ID : 62	  Features : [5.4 3.4 1.7 0.2]	 Label : 0
+ID : 63	  Features : [5.1 3.5 1.4 0.2]	 Label : 0
+ID : 64	  Features : [6.7 3.1 5.6 2.4]	 Label : 2
+ID : 65	  Features : [5.7 2.9 4.2 1.3]	 Label : 1
+ID : 66	  Features : [6.  2.2 4.  1. ]	 Label : 1
+ID : 67	  Features : [5.1 3.7 1.5 0.4]	 Label : 0
+ID : 68	  Features : [5.6 2.8 4.9 2. ]	 Label : 2
+ID : 69	  Features : [5.8 2.7 5.1 1.9]	 Label : 2
+ID : 70	  Features : [4.8 3.4 1.9 0.2]	 Label : 0
+ID : 71	  Features : [6.4 3.2 4.5 1.5]	 Label : 1
+ID : 72	  Features : [5.5 2.4 3.8 1.1]	 Label : 1
+ID : 73	  Features : [6.6 2.9 4.6 1.3]	 Label : 1
+ID : 74	  Features : [6.7 3.3 5.7 2.1]	 Label : 2
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Result of Machine Learning Model : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID : 0	  Expected Result : 0	 Predicted Result : 0
+ID : 1	  Expected Result : 0	 Predicted Result : 0
+ID : 2	  Expected Result : 2	 Predicted Result : 2
+ID : 3	  Expected Result : 2	 Predicted Result : 1
+ID : 4	  Expected Result : 1	 Predicted Result : 1
+ID : 5	  Expected Result : 2	 Predicted Result : 2
+ID : 6	  Expected Result : 1	 Predicted Result : 1
+ID : 7	  Expected Result : 2	 Predicted Result : 2
+ID : 8	  Expected Result : 0	 Predicted Result : 0
+ID : 9	  Expected Result : 2	 Predicted Result : 2
+ID : 10	  Expected Result : 0	 Predicted Result : 0
+ID : 11	  Expected Result : 2	 Predicted Result : 2
+ID : 12	  Expected Result : 1	 Predicted Result : 1
+ID : 13	  Expected Result : 1	 Predicted Result : 1
+ID : 14	  Expected Result : 2	 Predicted Result : 2
+ID : 15	  Expected Result : 0	 Predicted Result : 0
+ID : 16	  Expected Result : 1	 Predicted Result : 1
+ID : 17	  Expected Result : 2	 Predicted Result : 2
+ID : 18	  Expected Result : 0	 Predicted Result : 0
+ID : 19	  Expected Result : 1	 Predicted Result : 1
+ID : 20	  Expected Result : 2	 Predicted Result : 2
+ID : 21	  Expected Result : 1	 Predicted Result : 1
+ID : 22	  Expected Result : 0	 Predicted Result : 0
+ID : 23	  Expected Result : 1	 Predicted Result : 1
+ID : 24	  Expected Result : 2	 Predicted Result : 2
+ID : 25	  Expected Result : 1	 Predicted Result : 1
+ID : 26	  Expected Result : 1	 Predicted Result : 1
+ID : 27	  Expected Result : 2	 Predicted Result : 2
+ID : 28	  Expected Result : 2	 Predicted Result : 2
+ID : 29	  Expected Result : 0	 Predicted Result : 0
+ID : 30	  Expected Result : 0	 Predicted Result : 0
+ID : 31	  Expected Result : 2	 Predicted Result : 2
+ID : 32	  Expected Result : 2	 Predicted Result : 2
+ID : 33	  Expected Result : 2	 Predicted Result : 2
+ID : 34	  Expected Result : 2	 Predicted Result : 1
+ID : 35	  Expected Result : 1	 Predicted Result : 1
+ID : 36	  Expected Result : 2	 Predicted Result : 2
+ID : 37	  Expected Result : 1	 Predicted Result : 1
+ID : 38	  Expected Result : 1	 Predicted Result : 1
+ID : 39	  Expected Result : 1	 Predicted Result : 1
+ID : 40	  Expected Result : 1	 Predicted Result : 1
+ID : 41	  Expected Result : 0	 Predicted Result : 0
+ID : 42	  Expected Result : 0	 Predicted Result : 0
+ID : 43	  Expected Result : 0	 Predicted Result : 0
+ID : 44	  Expected Result : 2	 Predicted Result : 2
+ID : 45	  Expected Result : 0	 Predicted Result : 0
+ID : 46	  Expected Result : 0	 Predicted Result : 0
+ID : 47	  Expected Result : 2	 Predicted Result : 2
+ID : 48	  Expected Result : 1	 Predicted Result : 1
+ID : 49	  Expected Result : 1	 Predicted Result : 1
+ID : 50	  Expected Result : 2	 Predicted Result : 2
+ID : 51	  Expected Result : 2	 Predicted Result : 2
+ID : 52	  Expected Result : 2	 Predicted Result : 2
+ID : 53	  Expected Result : 2	 Predicted Result : 2
+ID : 54	  Expected Result : 0	 Predicted Result : 0
+ID : 55	  Expected Result : 2	 Predicted Result : 2
+ID : 56	  Expected Result : 1	 Predicted Result : 1
+ID : 57	  Expected Result : 0	 Predicted Result : 0
+ID : 58	  Expected Result : 0	 Predicted Result : 0
+ID : 59	  Expected Result : 0	 Predicted Result : 0
+ID : 60	  Expected Result : 2	 Predicted Result : 2
+ID : 61	  Expected Result : 1	 Predicted Result : 1
+ID : 62	  Expected Result : 0	 Predicted Result : 0
+ID : 63	  Expected Result : 0	 Predicted Result : 0
+ID : 64	  Expected Result : 2	 Predicted Result : 2
+ID : 65	  Expected Result : 1	 Predicted Result : 1
+ID : 66	  Expected Result : 1	 Predicted Result : 1
+ID : 67	  Expected Result : 0	 Predicted Result : 0
+ID : 68	  Expected Result : 2	 Predicted Result : 2
+ID : 69	  Expected Result : 2	 Predicted Result : 2
+ID : 70	  Expected Result : 0	 Predicted Result : 0
+ID : 71	  Expected Result : 1	 Predicted Result : 1
+ID : 72	  Expected Result : 1	 Predicted Result : 1
+ID : 73	  Expected Result : 1	 Predicted Result : 1
+ID : 74	  Expected Result : 2	 Predicted Result : 2
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Number of Wrong predictions by the ML Model :  2
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Accuracy of KNN algorithm is :  97.33333333333334 %
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
